@@ -58,7 +58,7 @@ public class Login {
     }
   }
 
-  private String closeAlertAndGetItsText() {
+  private String closeAlertadafsdgfdgfdgdgfAndGetItsText() {
     try {
       Alert alert = driver.switchTo().alert();
       String alertText = alert.getText();
